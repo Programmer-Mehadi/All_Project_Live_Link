@@ -6,6 +6,7 @@
 4. https://best-five-cricket-player-select.netlify.app/
 5. https://qoxag.netlify.app/
 6. https://speed-monster-test.netlify.app/
+
    https://speed-monster-test.netlify.app/blog.html
 7. https://alpha-fitness-center.netlify.app/
 8. https://primoquiz.netlify.app/
